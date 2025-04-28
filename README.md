@@ -2,7 +2,7 @@
 
 
 Data
-The video used in the tutorial can be downloaded here.....https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/
+The video used in the project can be downloaded here.....https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/
 
 
 
