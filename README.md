@@ -1,5 +1,11 @@
 # Automatic-Car-number-Plate-Detection
 
+
+Data
+The video used in the tutorial can be downloaded here.....https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/
+
+
+
 Number Plate Detection and Tracking
 
 This project implements a pipeline for detecting and tracking vehicles and their license plates in a video, recognizing license plate text, interpolating missing frames, and generating an annotated output video with bounding boxes and license plate information.
